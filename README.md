@@ -250,9 +250,6 @@ observations (they are not the same as those you add to the fines dataframe)
     * the new dataframe should have only the car numbers that exist in
 both
 dataframes 
-    * the new dataframe should have all the car numbers that exist in
-both
-dataframes 
     * the new dataframe should have only the car numbers from the
 fines dataframe 
     * the new dataframe should have only the car numbers from the
